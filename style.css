@@ -1,0 +1,102 @@
+*{
+    padding: 0%;
+    margin: auto;
+}
+.input{
+    display: flex;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#i1{
+    margin-left: 0px;
+    border: none;
+}
+.sea{
+    border: 1px solid black;
+}
+.btn{
+    justify-content: space-between;
+    margin-left: 5px;
+    padding: 5px;
+}
+.sea{
+    display: flex;
+    margin-left: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+.otherBs{
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 5px;
+    padding: 5px;
+}
+#all_products,#elec,#clothing,#hg{
+    padding: 5px;
+    margin : 5px 5px 5px 5px
+
+}
+.icons{
+    margin-top: 50px;
+    display: flex;
+    font-size: small;
+    display: flex;
+}
+.sp{
+    padding: 5px 5px;
+    width: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.T-shirt{
+    padding: 5px 5px;
+    width: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Cm{
+    padding: 5px 5px;
+    width: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Laptop{
+    padding: 5px 5px;
+    width: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Blender{
+    padding: 5px 5px;
+    width: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Hoodie{
+    padding: 5px 5px;
+    width: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.visibility-hidden{
+    visibility: hidden;
+}
